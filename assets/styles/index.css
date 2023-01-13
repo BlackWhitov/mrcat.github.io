@@ -1,0 +1,13 @@
+.body {
+    background: radial-gradient(aquamarine, purple);
+}
+.main_content {
+    display: flex;
+    justify-content: center;
+}
+.gallary {
+    display: block;
+}
+.picture_block {
+    margin-bottom: 10;
+}
